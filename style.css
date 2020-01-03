@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+h1 {
+    color: purple;
+}
+.gameCanvas {
+    border: 1px solid black;
+}
+.gameSection {
+    display: inline-grid;
+    width: 200px;
+    vertical-align: top;
+}
+table, td {
+    border: 1px solid black;
+}
